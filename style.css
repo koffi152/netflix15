@@ -12,7 +12,7 @@ header{
     height: 100vh;
     width: 100vw;
     
-    background-image: url(./image/DOUJ.jpg);
+    background-image: url(DOUJ.jpg);
     background-size: cover;
 }
 nav{
